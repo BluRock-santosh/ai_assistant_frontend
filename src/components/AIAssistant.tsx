@@ -107,7 +107,7 @@ const AIAssistant: React.FC = () => {
 
   // Extract WebSocket initialization logic
   const initializeWebSocket = useCallback(() => {
-    const ws = new WebSocket("ws://localhost:8080");
+    const ws = new WebSocket("ws://ai-assitant-backend.onrender.com");
     wsRef.current = ws;
     ws.onopen = () => {
       setIsConnected(true);
