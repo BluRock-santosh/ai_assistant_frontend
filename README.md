@@ -1,6 +1,6 @@
 # RuleBot: Hybrid AI Chatbot 🚀
 
-![RuleBot Banner](https://lovable.dev/opengraph-image-p98pqg.png)
+
 
 ## Overview
 RuleBot is an interactive, extensible, and visually engaging chatbot built with React, TypeScript, and Vite. It features a **hybrid AI architecture**: combining rule-based logic, real-time WebSocket live chat, and powerful LLM (Groq Llama) integration for natural language understanding and responses. This makes RuleBot ideal for hackathons and real-world applications where flexibility and intelligence are key.
